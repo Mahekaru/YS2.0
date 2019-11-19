@@ -1,0 +1,10 @@
+C:\Users\mahek\source\repos\YS2.0\YSDatabase\bin\Debug\YSDatabase.dacpac
+C:\Users\mahek\source\repos\YS2.0\YSDatabase\bin\Debug\YSDatabase.dll
+C:\Users\mahek\source\repos\YS2.0\YSDatabase\bin\Debug\YSDatabase.pdb
+C:\Users\mahek\source\repos\YS2.0\YSDatabase\obj\Debug\YSDatabase.sqlprojAssemblyReference.cache
+C:\Users\mahek\source\repos\YS2.0\YSDatabase\obj\Debug\Model.xml
+C:\Users\mahek\source\repos\YS2.0\YSDatabase\obj\Debug\refactor.xml
+C:\Users\mahek\source\repos\YS2.0\YSDatabase\obj\Debug\postdeploy.sql
+C:\Users\mahek\source\repos\YS2.0\YSDatabase\obj\Debug\predeploy.sql
+C:\Users\mahek\source\repos\YS2.0\YSDatabase\obj\Debug\YSDatabase.dll
+C:\Users\mahek\source\repos\YS2.0\YSDatabase\obj\Debug\YSDatabase.pdb
